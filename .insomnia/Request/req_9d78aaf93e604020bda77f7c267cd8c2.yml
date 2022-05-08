@@ -1,0 +1,26 @@
+_id: req_9d78aaf93e604020bda77f7c267cd8c2
+type: Request
+parentId: wrk_5a52bc20638444bf92d1f9745c56df50
+modified: 1651149841691
+created: 1651061637538
+url: "{{host}}/projects/1"
+name: projects/:id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: true
+  username: "{{username}}"
+  password: "{{password}}"
+metaSortKey: -1648846758120.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

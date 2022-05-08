@@ -1,0 +1,78 @@
+_id: req_d8732bd5dafe41c298c6cc2bde07316c
+type: Request
+parentId: fld_b00e4822cc8147318fcf1bfdd3d2aa89
+modified: 1650236461717
+created: 1650175624775
+url: https://cgi.singmap.com/project/queryProjectDetail
+name: project details
+description: ""
+method: GET
+body: {}
+parameters:
+  - name: token
+    value: 288c4aa6480b4e73a745dd534fb91e7f
+    disabled: false
+    id: pair_180986a7a68b403db248a5437047fec1
+  - name: brokeId
+    value: c16b84966acc46c6ba69dc2a6291d711
+    disabled: false
+    id: pair_1fbde4c896614467930ee29bbce98316
+  - name: source
+    value: manager
+    disabled: false
+    id: pair_8ed8c6e7557d49e5ad7509b94bab921b
+  - name: timestamp
+    value: "1650175364172"
+    disabled: false
+    id: pair_4173688d96184f2595bc07c6b82fcf3e
+  - name: projectId
+    value: cbb570f6483b44b0aa5ed1bc2b503115
+    disabled: false
+    id: pair_558eb0b9113f48b9a0387963bc3d19c9
+headers:
+  - name: Accept
+    value: application/json, text/plain, /
+    id: pair_0ed204b028554b54970e56116bf3404e
+  - name: Accept-Language
+    value: en-US,en;q=0.9
+    id: pair_618fba93193e4a989390cc672cf330f6
+  - name: Connection
+    value: keep-alive
+    id: pair_de123caf0af54b30b492f7dcb3da7631
+  - name: Origin
+    value: https://manager.singmap.com
+    id: pair_b20550f93ab647ab8ba715fe914dc50c
+  - name: Referer
+    value: https://manager.singmap.com/
+    id: pair_d8137788e1d749639abfe32293eb2ff5
+  - name: Sec-Fetch-Dest
+    value: empty
+    id: pair_4d67f1beb18745528d96b871113f2b19
+  - name: Sec-Fetch-Mode
+    value: cors
+    id: pair_403bceddbcfc4c7eb723f706d01a7457
+  - name: Sec-Fetch-Site
+    value: same-site
+    id: pair_f11941763a10404e8abf656d3930f015
+  - name: User-Agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/100.0.4896.88 Safari/537.36
+    id: pair_c8727b28d6394615b8d6c635eba39335
+  - name: sec-ch-ua
+    value: '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"'
+    id: pair_c846153aa4db4bc08b80537141c2a77b
+  - name: sec-ch-ua-mobile
+    value: ?0
+    id: pair_bc4484e69399494e935059dae741c5e9
+  - name: sec-ch-ua-platform
+    value: '"Windows"'
+    id: pair_105869251e0945f1a0f62e84f6153965
+authentication: {}
+metaSortKey: -1650175624775
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

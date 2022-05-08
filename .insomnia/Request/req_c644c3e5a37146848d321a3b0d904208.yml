@@ -1,0 +1,26 @@
+_id: req_c644c3e5a37146848d321a3b0d904208
+type: Request
+parentId: wrk_5a52bc20638444bf92d1f9745c56df50
+modified: 1651054718058
+created: 1649798295769
+url: "{{host}}/api/leads"
+name: leads
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: false
+  username: "{{username}}"
+  password: "{{password}}"
+metaSortKey: -1649798295769
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

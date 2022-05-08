@@ -1,0 +1,29 @@
+_id: req_b04d710ae0e742bcbd57222da93faf9d
+type: Request
+parentId: fld_b00e4822cc8147318fcf1bfdd3d2aa89
+modified: 1650362445636
+created: 1650177401764
+url: https://cgi.singmap.com/token
+name: token
+description: ""
+method: POST
+body: {}
+parameters:
+  - id: pair_df9d772775a04b2d90edab27da241ff6
+    name: key
+    value: 1c71637a3dd411ea9c9498039b074f9c
+    description: ""
+  - id: pair_d98003053db74115a842c2b1e2193568
+    name: secret
+    value: 00fcec393dd411ea9c9498039b074f9c
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1650177401765
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

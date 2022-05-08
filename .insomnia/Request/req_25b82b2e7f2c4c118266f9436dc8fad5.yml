@@ -1,0 +1,39 @@
+_id: req_25b82b2e7f2c4c118266f9436dc8fad5
+type: Request
+parentId: fld_41b90051edc844a09e0fb67fb540a533
+modified: 1652029531546
+created: 1651479366318
+url: https://rest.gohighlevel.com/v1/contacts/
+name: contacts
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "email": "phat@test.com",
+        "phone": "+6587809117",
+        "name": "Phat Tran",
+        "website": "http://localhost:3003/projects/1",
+        "tags": [
+            "goahead"
+        ],
+        "source": "http://localhost:3003/projects/1"
+    }
+parameters: []
+headers:
+  - name: Authorization
+    value: Bearer 83c7f923-9ca4-41b4-a58e-8348c17e081c
+    id: pair_bb15b44afe6142b2a61561a14da19738
+  - name: Content-Type
+    value: application/json
+    id: pair_2725515019a745a692ebc577e73ee764
+authentication: {}
+metaSortKey: -1651266104077
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
